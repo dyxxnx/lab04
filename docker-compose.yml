@@ -3,4 +3,4 @@ services:
   server:
     image: dyxxnx/docker-ci-basic:latest
     ports:
-      - 8000:80
+      - 80:80
